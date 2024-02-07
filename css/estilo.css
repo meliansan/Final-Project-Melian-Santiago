@@ -1,8 +1,11 @@
+/* Body de las páginas */
+
 html {
     background: linear-gradient(to bottom,  rgb(101, 0, 0) 0%,rgb(143, 0, 0) 50%,rgb(178, 56, 56) 100%); 
 
     font-family: "CormorantSC-Regular";
 }
+
 
 .logo-header {
     width: 30px;
@@ -28,6 +31,7 @@ html {
 	padding: 0;
     box-sizing: border-box;
 }
+
 /* index */
 @font-face {
     font-family: "CormorantSC-Regular" ;
@@ -46,8 +50,9 @@ h1{
 }
 
 div a img{
-    margin-left: 47%;
-    width: 6%;
+    margin-left: 43%;
+    width: 15%;
+
 
 
 }
